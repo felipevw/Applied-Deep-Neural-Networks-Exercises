@@ -8,3 +8,4 @@ Index
 4) Single neuron Part 3: Logistic Regression
 5) Feedforward Neural Networks Part 1: understanding overfitting
 5) Feedforward Neural Networks Part 2: Zalando dataset
+6) Feedforward Neural Networks Part 3: Zalando dataset improved version
