@@ -11,3 +11,5 @@ Index
 6) Feedforward Neural Networks Part 3: Zalando dataset improved version
 7) Training Neural Networks: Self-Developed Optimizer (in development)
 8) Introduction to Regularization Part 1
+9) L2 Regularization and Weights Distribution
+
