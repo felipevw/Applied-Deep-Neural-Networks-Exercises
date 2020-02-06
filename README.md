@@ -1,6 +1,6 @@
 # Exercises of Applied Deep Learning 
 
-A variety of exercises and test of deep learning across mutiple platforms
+A variety of exercises and test of deep learning techniques in Tensorflow framework
 
 Index
 
@@ -14,5 +14,7 @@ Index
 7) Training Neural Networks: Self-Developed Optimizer 
 8) Introduction to Regularization Part 1
 9) L2 Regularization and Weights Distribution
-10) Tensorflow 2 with Keras and Tensorboard visualization
+
+10) Tensorflow 2 with Keras and Tensorboard visualization                   FileName: tensor_v2_1
+11) CNN network with Cifar10 dataset and sequential keras API               FileName: tensor_v2_2
 
