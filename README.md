@@ -1,4 +1,6 @@
-# Exercises of Deep Learning in Tensorflow
+# Exercises of Applied Deep Learning 
+
+A variety of exercises and test of deep learning across mutiple platforms
 
 Index
 
@@ -9,7 +11,8 @@ Index
 5) Feedforward Neural Networks Part 1: understanding overfitting
 5) Feedforward Neural Networks Part 2: Zalando dataset
 6) Feedforward Neural Networks Part 3: Zalando dataset improved version
-7) Training Neural Networks: Self-Developed Optimizer (in development)
+7) Training Neural Networks: Self-Developed Optimizer 
 8) Introduction to Regularization Part 1
 9) L2 Regularization and Weights Distribution
+10) Tensorflow 2 with Keras and Tensorboard visualization
 
