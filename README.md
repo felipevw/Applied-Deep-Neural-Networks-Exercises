@@ -15,6 +15,9 @@ Index
 8) Introduction to Regularization Part 1
 9) L2 Regularization and Weights Distribution
 
+
+Tensorflow 2.x version
+
 10) Tensorflow 2 with Keras and Tensorboard visualization                   
     FileName: tensor_v2_1
 11) CNN network with Cifar10 dataset and sequential keras API               
@@ -22,3 +25,5 @@ Index
 12) Transfer Learning with Resnet50 and imagenet pretrained weights         
 FileName: tensor_v2_3
 
+13) Convolutional Autoencoders for image denoising 
+FileName: tensor_v2_4
