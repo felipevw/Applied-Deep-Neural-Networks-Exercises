@@ -27,7 +27,7 @@ Tensorflow 2.x version
     FileName: tensor_v2_2
 3) Transfer Learning with Resnet50 and imagenet pretrained weights         
     FileName: tensor_v2_3
-4) Convolutional Autoencoders for image denoising 
+4) Convolutional Autoencoders for image denoising                   
     FileName: tensor_v2_4
-5) Deep Dream image generation 
+5) Deep Dream image generation                                      
     FileName: tensor_v2_5
