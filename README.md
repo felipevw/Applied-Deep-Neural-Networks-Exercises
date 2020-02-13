@@ -4,6 +4,9 @@ A variety of exercises and test of deep learning techniques in Tensorflow framew
 
 Index
 
+
+Tensorflow 1.x version
+
 1) Basic computational graphs in tensorflow.
 2) Single neuron Part 1: Performance in Python
 3) Single neuron Part 2: Linear Regression
@@ -18,11 +21,13 @@ Index
 
 Tensorflow 2.x version
 
-11) Tensorflow 2 with Keras and Tensorboard visualization                   
+1) Tensorflow 2 with Keras and Tensorboard visualization                   
     FileName: tensor_v2_1
-12) CNN network with Cifar10 dataset and sequential keras API               
+2) CNN network with Cifar10 dataset and sequential keras API               
     FileName: tensor_v2_2
-13) Transfer Learning with Resnet50 and imagenet pretrained weights         
+3) Transfer Learning with Resnet50 and imagenet pretrained weights         
     FileName: tensor_v2_3
-14) Convolutional Autoencoders for image denoising 
+4) Convolutional Autoencoders for image denoising 
     FileName: tensor_v2_4
+5) Deep Dream image generation 
+    FileName: tensor_v2_5
