@@ -31,3 +31,5 @@ Tensorflow 2.x version
     FileName: tensor_v2_4
 5) Deep Dream image generation                                      
     FileName: tensor_v2_5
+6) Introduction to GAN                                              
+    FileName: tensor_v2_6
