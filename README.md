@@ -33,3 +33,5 @@ Tensorflow 2.x version
     FileName: tensor_v2_5
 6) Introduction to deep conv GAN                                              
     FileName: tensor_v2_6
+7) Introduction to RNN with simpleRNN                                   
+    FileName: tensor_v2_7
