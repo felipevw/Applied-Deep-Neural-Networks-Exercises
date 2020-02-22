@@ -35,3 +35,5 @@ Tensorflow 2.x version
     FileName: tensor_v2_6
 7) Introduction to RNN with simpleRNN                                   
     FileName: tensor_v2_7
+8) Testing Tensorflow Serving                                   
+    FileName: tensor_v2_8
